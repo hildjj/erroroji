@@ -1,0 +1,14 @@
+{
+  "name": "erroroji",
+  "version": "0.0.0",
+  "description": "Emoji errors for HTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Hildebrand",
+  "license": "MIT",
+  "dependencies": {
+    "utf8": "^2.0.0"
+  }
+}
